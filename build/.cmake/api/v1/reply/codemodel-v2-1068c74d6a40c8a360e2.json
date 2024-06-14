@@ -1,0 +1,202 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "34-1-InstallingQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt-Debug-4190e0782f407d905669.json",
+					"name" : "34-1-InstallingQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen-Debug-7426cb83270699ac6b48.json",
+					"name" : "34-1-InstallingQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen_timestamp_deps-Debug-bd040d89a6b9b947be7b.json",
+					"name" : "34-1-InstallingQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "34-1-InstallingQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt-Release-07bdc37090aa4ce6e623.json",
+					"name" : "34-1-InstallingQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen-Release-b06818a2faaab5097a10.json",
+					"name" : "34-1-InstallingQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen_timestamp_deps-Release-bd040d89a6b9b947be7b.json",
+					"name" : "34-1-InstallingQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "34-1-InstallingQt",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt-RelWithDebInfo-3307c39a6630fe33cda1.json",
+					"name" : "34-1-InstallingQt",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen-RelWithDebInfo-3ac939ddae648c4ee27b.json",
+					"name" : "34-1-InstallingQt_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "34-1-InstallingQt_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-34-1-InstallingQt_autogen_timestamp_deps-RelWithDebInfo-bd040d89a6b9b947be7b.json",
+					"name" : "34-1-InstallingQt_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Qt/Project/34-1-InstallingQt/build",
+		"source" : "D:/Qt/Project/34-1-InstallingQt"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

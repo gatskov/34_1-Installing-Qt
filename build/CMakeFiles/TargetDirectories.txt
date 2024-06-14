@@ -1,0 +1,5 @@
+D:/Qt/Project/34-1-InstallingQt/build/CMakeFiles/34-1-InstallingQt.dir
+D:/Qt/Project/34-1-InstallingQt/build/CMakeFiles/edit_cache.dir
+D:/Qt/Project/34-1-InstallingQt/build/CMakeFiles/rebuild_cache.dir
+D:/Qt/Project/34-1-InstallingQt/build/CMakeFiles/34-1-InstallingQt_autogen_timestamp_deps.dir
+D:/Qt/Project/34-1-InstallingQt/build/CMakeFiles/34-1-InstallingQt_autogen.dir

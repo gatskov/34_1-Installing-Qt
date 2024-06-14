@@ -1,0 +1,56 @@
+[
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Debug -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Debug\\34-1-InstallingQt_autogen\\mocs_compilation_Debug.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_Debug.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_Debug.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Debug\\34-1-InstallingQt_autogen\\mocs_compilation_Debug.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Debug -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Debug\\main.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Debug\\main.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Debug\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Debug -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -g -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Debug\\mainwindow.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Debug\\mainwindow.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Release\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Release -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Release\\34-1-InstallingQt_autogen\\mocs_compilation_Release.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_Release.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_Release.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Release\\34-1-InstallingQt_autogen\\mocs_compilation_Release.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Release\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Release -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Release\\main.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Release\\main.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"Release\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_Release -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O3 -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\Release\\mainwindow.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\Release\\mainwindow.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_RelWithDebInfo -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\34-1-InstallingQt_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\build\\34-1-InstallingQt_autogen\\mocs_compilation_RelWithDebInfo.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\34-1-InstallingQt_autogen\\mocs_compilation_RelWithDebInfo.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_RelWithDebInfo -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\main.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\main.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\main.cpp.obj"
+},
+{
+  "directory": "D:/Qt/Project/34-1-InstallingQt/build",
+  "command": "C:\\Qt\\Tools\\mingw810_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DCMAKE_INTDIR=\\\"RelWithDebInfo\\\" -ID:/Qt/Project/34-1-InstallingQt/build -ID:/Qt/Project/34-1-InstallingQt -ID:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/include_RelWithDebInfo -isystem C:/Qt/5.15.2/mingw81_64/include -isystem C:/Qt/5.15.2/mingw81_64/include/QtWidgets -isystem C:/Qt/5.15.2/mingw81_64/include/QtGui -isystem C:/Qt/5.15.2/mingw81_64/include/QtANGLE -isystem C:/Qt/5.15.2/mingw81_64/include/QtCore -isystem C:/Qt/5.15.2/mingw81_64/./mkspecs/win32-g++ -O2 -g -DNDEBUG -std=gnu++17 -o CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\mainwindow.cpp.obj -c D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "file": "D:\\Qt\\Project\\34-1-InstallingQt\\mainwindow.cpp",
+  "output": "CMakeFiles\\34-1-InstallingQt.dir\\RelWithDebInfo\\mainwindow.cpp.obj"
+}
+]

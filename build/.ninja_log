@@ -1,0 +1,15 @@
+# ninja log v5
+12	174	7400682570261928	34-1-InstallingQt_autogen/timestamp	e5fdf2b349f20cc3
+12	174	7400682570261928	34-1-InstallingQt_autogen/mocs_compilation_Debug.cpp	e5fdf2b349f20cc3
+12	174	7400682570261928	D:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/timestamp	e5fdf2b349f20cc3
+12	174	7400682570261928	D:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/mocs_compilation_Debug.cpp	e5fdf2b349f20cc3
+185	1792	7400682653395851	CMakeFiles/34-1-InstallingQt.dir/Debug/mainwindow.cpp.obj	5cf108c32a131287
+817	2402	7400665081235511	CMakeFiles/34-1-InstallingQt.dir/Debug/34-1-InstallingQt_autogen/mocs_compilation_Debug.cpp.obj	9dd7fd5c41cd540c
+820	2585	7400665083080574	CMakeFiles/34-1-InstallingQt.dir/Debug/main.cpp.obj	588ce1b9642ee786
+1792	2153	7400682656920688	Debug/34-1-InstallingQt.exe	f396fe5bf04d3ff5
+10	172	7400684853193445	34-1-InstallingQt_autogen/timestamp	e5fdf2b349f20cc3
+10	172	7400684853193445	34-1-InstallingQt_autogen/mocs_compilation_Debug.cpp	e5fdf2b349f20cc3
+10	172	7400684853193445	D:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/timestamp	e5fdf2b349f20cc3
+10	172	7400684853193445	D:/Qt/Project/34-1-InstallingQt/build/34-1-InstallingQt_autogen/mocs_compilation_Debug.cpp	e5fdf2b349f20cc3
+183	1816	7400686117483698	CMakeFiles/34-1-InstallingQt.dir/Debug/mainwindow.cpp.obj	5cf108c32a131287
+1816	2180	7400686121046215	Debug/34-1-InstallingQt.exe	f396fe5bf04d3ff5
